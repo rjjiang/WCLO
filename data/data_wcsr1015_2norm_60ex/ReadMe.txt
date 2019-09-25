@@ -1,0 +1,1 @@
+60 test problems for WCSR with n = 20,30,50,80,100,150 and r = 5,10.
